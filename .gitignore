@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 venv/
 .env
+backend/voz_loro.mp3
+*.mp3

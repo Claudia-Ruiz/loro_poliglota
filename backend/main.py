@@ -45,6 +45,7 @@ def obtener_configuracion():
         "en": "Inglés",
         "fr": "Francés",
         "it": "Italiano",
-        "ja": "Japonés"
+        "ja": "Japonés",
+        "de": "Alemán"
     }
     return {"idiomas": idiomas_soportados}
